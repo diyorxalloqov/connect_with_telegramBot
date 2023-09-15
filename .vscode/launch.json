@@ -1,0 +1,10 @@
+{
+    "configurations": [
+        {
+            "name": "Flutter (lib/domain/model/telegramUpdateModel.dart)",
+            "type": "dart",
+            "request": "launch",
+            "program": "lib/domain/model/telegramUpdateModel.dart"
+        }
+    ]
+}
